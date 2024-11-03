@@ -346,4 +346,4 @@ int main() {
     free(symbols);
 
     return 0;
-}//рабочий вариант на 31.10
+}
